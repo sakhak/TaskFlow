@@ -40,7 +40,7 @@ Status values: `Todo`, `InProgress`, `Done`.
 ### Example
 ```json
 POST /api/todos
-{ "title": "Finish internship project", "description": "Add README", "dueDate": "2026-11-01T00:00:00Z" }
+{ "title": "testing project", "description": "Add README", "dueDate": "2026-11-01T00:00:00Z" }
 ```
 
 ## Structure
